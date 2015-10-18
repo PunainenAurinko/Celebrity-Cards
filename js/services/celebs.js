@@ -6,13 +6,13 @@ angular.module('Celebs')
         getAll: function () {
             return $http({
                 method: 'GET',
-                url: '/data/celebs.json'
+                url: 'http://tonk0006.github.io/Celebrity-Cards/data/celebs.json'
             })
         },
         getOne: function (id) {
             return $http({
                 method: 'GET',
-                url: '/data/celebs.json'
+                url: 'http://tonk0006.github.io/Celebrity-Cards/data/celebs.json'
             })
         }
     }
