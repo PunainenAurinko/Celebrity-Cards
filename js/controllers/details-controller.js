@@ -21,6 +21,6 @@ angular.module('Celebs')
 
         }, function (response) {
             //error
-
+            console.log('Error, error, error..');
         });
 });
