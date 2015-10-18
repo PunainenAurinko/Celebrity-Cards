@@ -1,11 +1,21 @@
 <main>
+    
+<!--
+    <div class="well">
+        <pre>{{ celeb | json }}</pre>
+    </div>
+-->
+
     <div class="row">
         <div class="jumbotron">
-            <h1>Details for item {{itemID}}</h1>
-            <p>This is an example to show a potential layout pattern in Bootstrap. We will do some practice with Routing and routing params.</p>
+            <img src="{{celeb.image}}" ng-style="{'width': '330px', 'height': '330px'}">
+            <h1>{{celeb.name}}</h1>
+            <p><strong>Born:</strong> {{celeb.year}}.</p>
+            <p>{{celeb.bio}}</p>
+            <p><strong>Net worth:</strong> {{celeb.worth | currency}}.</p>
         </div>
     </div>
     <div class="row">
-        <a href="#/" class="btn btn-primary btn-lg">Back to List</a>
+        <a href="#/" class="btn btn-primary btn-lg">Back to Cards</a>
     </div>
 </main>

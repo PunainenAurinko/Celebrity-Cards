@@ -19,7 +19,7 @@
 <body ng-app="Celebs">
     <div class="container">
         <header class="row">
-            <h1>Simple Routing App</h1>
+            <h1>Your favourite celebrities</h1>
         </header>
         <ng-view></ng-view>
     </div>
@@ -30,9 +30,16 @@
 
     <!-- If we want to use routing then we need this -->
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular-route.min.js"></script>
+    
+    <!-- UI Bootstrap file -->
+    <script src="js/ui-bootstrap-0.14.0.min.js"></script>
 
     <!-- our own app.js file -->
     <script src="js/app.js"></script>
+    <script src="js/routes.js"></script>
+    <script src="js/controllers/main-controller.js"></script>
+    <script src="js/controllers/details-controller.js"></script>
+    <script src="js/services/celebs.js"></script>
 </body>
 
 </html>

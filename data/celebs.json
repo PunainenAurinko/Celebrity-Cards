@@ -1,0 +1,101 @@
+{
+    "celebs": [
+        {
+            "id": "1",
+            "name": "Hugh Laurie",
+            "year": "1959",
+            "bio": "James Hugh Calum Laurie, born 11 June 1959, known professionally as Hugh Laurie, is an English actor, writer, director, musician, singer, comedian, and author. He first became known as one-half of the Fry and Laurie double act with his friend and comedy partner Stephen Fry, whom he joined in the cast of A Bit of Fry & Laurie, Blackadder, and Jeeves and Wooster in the 1980s and 1990s. From 2004 to 2012, he played Dr. Gregory House, the protagonist of House, for which he received two Golden Globe awards, two Screen Actors Guild awards, and six Emmy nominations. He was listed in the 2011 Guinness World Records as the most watched leading man on television and was one of the highest-paid actors in a television drama, earning £250,000 ($409,000) per episode in House.",
+            "worth": "40000000",
+            "image": "../img/hugh_laurie.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Keira Knightley",
+            "year": "1985",
+            "bio": "Keira Christina Knightley was born in the South West Greater London suburb of Richmond on March 26, 1985. She is the daughter of actor Will Knightley and actress turned playwright Sharman Macdonald. An older brother, Caleb Knightley, was born in 1979. Her father is English, while her Scottish-born mother is of Scottish and Welsh origin. Brought up immersed in the acting profession from both sides - writing and performing - it is little wonder that the young Keira asked for her own agent at the age of three. She was granted one at the age of six and performed in her first TV role as 'Little Girl' in Screen One: Royal Celebration (1993), aged seven.",
+            "worth": "50000000",
+            "image": "../img/keira_knightley.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Dwayne Johnson",
+            "year": "1972",
+            "bio": "Dwayne Douglas Johnson, also known as The Rock, is an American and Canadian actor, producer and Semi-Retired professional wrestler. Dwayne was born on May 2, 1972 in Hayward, California, to Ata Johnson (née Maivia) and Canadian-born professional wrestler Rocky Johnson. His father is black (of Black Nova Scotian descent), and his mother is of Samoan background. On December 16, 2013, Forbes named Johnson the top-grossing actor of 2013, with his films bringing in $1.3 billion worldwide for the year. Forbes credited the success of Fast & Furious 6, which grossed $789 million globally, and Johnson's frequent acting work as primary reasons for him topping the list.",
+            "worth": "135000000",
+            "image": "../img/dwayne_johnson.jpg"
+        },
+        {
+            "id": "4",
+            "name": "Taylor Swift",
+            "year": "1989",
+            "bio": "Taylor Alison Swift was born on December 13, 1989, in Reading, Pennsylvania, to Andrea (Finlay), a one-time marketing executive, and Scott Kingsley Swift, a financial adviser. Taylor Swift is a multi-Grammy award-winning American singer/songwriter who, in 2010 at the age of 20, became the youngest artist in history to win the Grammy Award for Album of the Year. In 2011 Swift was named Billboard's Woman of the Year. She also has been named the American Music Awards Artist of the Year, as well as the Entertainer of the Year for both the Country Music Association and the Academy of Country Music, among many other accolades. Currently, she is also the top-selling digital artist in music history.",
+            "worth": "200000000",
+            "image": "../img/taylor_swift.jpg"
+        },
+        {
+            "id": "5",
+            "name": "Ian McKellen",
+            "year": "1939",
+            "bio": "Ian Murray McKellen was born on May 25, 1939 in Burnley, Lancashire, England, to Margery Lois and Denis Murray McKellen. He is of Scottish, Northern Irish, and English descent. He is the recipient of six Laurence Olivier Awards, a Tony Award, a Golden Globe Award, a Screen Actors Guild Award, a BIF Award, two Saturn Awards, four Drama Desk Awards and two Critics' Choice Awards. He has also received two Academy Award nominations, four BAFTA nominations and five Emmy Award nominations. McKellen's work spans genres ranging from Shakespearean and modern theatre to popular fantasy and science fiction. His most well known film roles include Gandalf in The Lord of the Rings and The Hobbit trilogies and Magneto in the X-Men films.",
+            "worth": "55000000",
+            "image": "../img/ian_mckellen.jpg"
+        },
+        {
+            "id": "6",
+            "name": "Kate Winslet",
+            "year": "1975",
+            "bio": "Kate Elizabeth Winslet was born on 5 October 1975 in Reading, Berkshire, England. Winslet studied drama from childhood, and began her career in British television in 1991. She garnered recognition for her supporting role in Sense and Sensibility (1995) before achieving global stardom with the epic romance Titanic (1997). Winslet's performances in Iris (2001), Eternal Sunshine of the Spotless Mind (2004), Finding Neverland (2004), Little Children (2006), and Revolutionary Road (2008) continued to draw praise from film critics. She won the Academy Award for Best Actress for her role in The Reader (2008) and the Emmy Award for Best Actress in a Miniseries for playing the title role in Mildred Pierce (2011). Winslet's greatest commercial successes since Titanic include the romantic comedy The Holiday (2006), the animated film Flushed Away (2006), and the first two films of the Divergent series.",
+            "worth": "95000000",
+            "image": "../img/kate_winslet.jpg"
+        },
+                {
+            "id": "7",
+            "name": "Brad Paisley",
+            "year": "1972",
+            "bio": "Brad Douglas Paisley (born October 28, 1972) is an American country music singer and songwriter. Starting with his 1999 debut album, Who Needs Pictures, he has released 10 studio albums and a Christmas compilation on the Arista Nashville label, with all of his albums certified Gold or higher. He has scored 32 Top 10 singles on the U.S. Billboard Country Airplay chart, 19 of which have reached #1. Paisley has sold over 12 million albums and won three Grammy Awards, 14 Academy of Country Music Awards, 14 Country Music Association Awards, and two American Music Awards. Brad Paisley also wrote a few songs for the Pixar Animation Studios Walt Disney Pictures (Behind the Clouds, Find Yourself, Collision of Worlds, Nobody's Fool).",
+            "worth": "65000000",
+            "image": "../img/brad_paisley.jpg"
+        },
+        {
+            "id": "8",
+            "name": "Natalie Portman",
+            "year": "1981",
+            "bio": "Natalie Portman was born Natalie Hershlag on June 9, 1981, in Jerusalem, Israel, to a Jewish family. She was discovered by an agent in a pizza parlor at the age of 11 and made her powerful film debut in the movie Léon: The Professional (1994). It was not until 1999 that Natalie received worldwide fame as Queen Amidala in the highly anticipated US$431 million-grossing prequel Star Wars: Episode I - The Phantom Menace (1999). She then starred in two critically acclaimed comedy dramas, Anywhere But Here (1999) and Where the Heart Is (2000), followed by Closer (2004), for which she received an Oscar nomination. She received an Academy Award and a Golden Globe Award for Best Actress in Black Swan (2010).",
+            "worth": "45000000",
+            "image": "../img/natalie_portman.jpg"
+        },
+        {
+            "id": "9",
+            "name": "Daniel Craig",
+            "year": "1968",
+            "bio": "Daniel Wroughton Craig was born on March 2, 1968, in Chester, Cheshire, England. He waited tables as a struggling teenage actor with the NYT, went on to star as 'James Bond' in Casino Royale (2006), Quantum of Solace (2008), Skyfall (2012) and Spectre (2015). Craig's reserved demeanor and his avoidance of the showbiz-party-red-carpet milieu makes him a cool '007'. He is the first blonde actor to play Bond, the first to be born after the start of the film series, and also the first to be born after the death of author Ian Fleming in 1964. Four of the past Bond actors: Sean Connery, Roger Moore, Timothy Dalton and Pierce Brosnan have indicated that Craig is a good choice as 'Bond'.",
+            "worth": "65000000",
+            "image": "../img/daniel_craig.jpg"
+        },
+
+        {
+            "id": "10",
+            "name": "Amanda Seyfried",
+            "year": "1985",
+            "bio": "Amanda Seyfried was born on 3 December 1985, in Allentown, Pennsylvania. She is of German, and some English and Scots-Irish, ancestry. She began modeling when she was 11, and acted in high school productions. In 2004, Seyfried made her film debut in the teen comedy Mean Girls. Her subsequent supporting roles were in independent films, such as the drama Nine Lives (2005) and the crime drama Alpha Dog (2006). She starred in the dark fantasy historical romance Red Riding Hood (2011), the dystopian sci-fi thriller In Time (2011), the thriller Gone (2012), the musical drama film Les Misérables (2012), the biographical drama Lovelace (2013), and in the comedies A Million Ways to Die in the West (2014) and Ted 2 (2015).",
+            "worth": "10000000",
+            "image": "../img/amanda_seyfried.jpg"
+        },
+        {
+            "id": "11",
+            "name": "James Earl Jones",
+            "year": "1931",
+            "bio": "James Earl Jones was born on January 17, 1931 in Arkabutla, Mississippi, USA. At an early age, he started to take dramatic lessons to calm himself down. It appeared to work as he has since starred in many films over a 40-year period, beginning with the Stanley Kubrick classic Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb (1964). He is probably best known for his role as Darth Vader in the original Star Wars trilogy (for the voice only). He has appeared on the animated series The Simpsons (1989) three times and as Mufasa in The Lion King (1994).",
+            "worth": "45000000",
+            "image": "../img/james_earl_jones.jpg"
+        },
+        {
+            "id": "12",
+            "name": "Famke Janssen",
+            "year": "1964",
+            "bio": "Famke Beumer Janssen was born on November 5, 1964 in Amstelveen, Netherlands. She studied economics for a year at the University of Amsterdam. Moving to America in 1984, Famke modeled for Chanel in New York City. Later, taking a break from modeling, she majored in writing and literature at Columbia University and studied acting. Her first film was the crime drama Fathers & Sons (1992). Famke received strong critical acclaim for her electrifying performance as the femme fatale Xenia Onatopp, James Bond's enemy in GoldenEye (1995). Her career has bloomed since then and she went on starring in the blockbuster trilogy X-Men (2000), X-Men 2 (2003), and X-Men: The Last Stand (2006).",
+            "worth": "15000000",
+            "image": "../img/famke_janssen.jpg"
+        }
+]
+}
