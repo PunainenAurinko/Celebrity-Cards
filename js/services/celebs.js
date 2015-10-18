@@ -6,13 +6,13 @@ angular.module('Celebs')
         getAll: function () {
             return $http({
                 method: 'GET',
-                url: '../../data/celebs.json'
+                url: '/data/celebs.json'
             })
         },
         getOne: function (id) {
             return $http({
                 method: 'GET',
-                url: '../../data/celebs.json'
+                url: '/data/celebs.json'
             })
         }
     }
