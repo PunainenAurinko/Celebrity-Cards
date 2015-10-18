@@ -3,4 +3,26 @@
 h1 {
     font-size: 5rem;
     color: #fc0;
+    padding-bottom: 2rem;
+}
+
+.jumbotron {
+    border: 1px solid #aaa7a7;
+/*    margin: 5px;*/
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    -webkit-box-shadow: 5px 5px 2px 0px rgba(0, 0, 0, 0.5);
+       -moz-box-shadow: 5px 5px 2px 0px rgba(0,0,0,0.5);
+            box-shadow: 5px 5px 2px -3px rgba(0,0,0,0.5);
+}
+
+img {
+    border-radius: 5px;
+    -webkit-box-shadow: 5px 5px 2px 0px rgba(0, 0, 0, 0.5);
+       -moz-box-shadow: 5px 5px 2px 0px rgba(0,0,0,0.5);
+            box-shadow: 5px 5px 2px -3px rgba(0,0,0,0.5);
+}
+
+.btn {
+    margin-top: 1rem;
 }

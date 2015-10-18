@@ -8,8 +8,8 @@
 
     <div class="row">
 
-        <div class="col-xs-6 col-lg-4" ng-repeat="celeb in data.celebs">
-            <img src="{{celeb.image}}" ng-style="{'width': '220px', 'height': '220px'}">
+        <div class="col-xs-6 col-lg-4 jumbotron" ng-repeat="celeb in data.celebs">
+            <img src="{{celeb.image}}" ng-style="{'width': '265px', 'height': '265px'}">
             <h2>{{celeb.name}}</h2>
             <p><a class="btn btn-default" href="#/details/{{celeb.id}}" role="button">View details &raquo;</a></p>
         </div>
