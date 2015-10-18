@@ -6,14 +6,13 @@
     </div>
 -->
 
-    <div class="row">
-
-        <div class="col-xs-6 col-lg-4 jumbotron" ng-repeat="celeb in data.celebs">
-            <img src="{{celeb.image}}" ng-style="{'width': '265px', 'height': '265px'}">
+    <div class="row text-center">
+        <div class="col-sm-6 col-lg-4 jumbotron" ng-repeat="celeb in data.celebs">
+            <img src="{{celeb.image}}" ng-style="{'width': '265px', 'height': '265px'}" class="img-responsive center-block">
             <h2>{{celeb.name}}</h2>
             <p><a class="btn btn-default" href="#/details/{{celeb.id}}" role="button">View details &raquo;</a></p>
-        </div>
-        <!--/.col-xs-6.col-lg-4-->
+        </div> 
+        <!--/.col-sm-6 col-lg-4-->
 
     </div>
     <!--/row-->
